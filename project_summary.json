@@ -1,0 +1,13 @@
+{
+  "total_cars": 5000,
+  "avg_price": 37397.3798,
+  "avg_year": 2016.0186,
+  "avg_mileage": 74453.906,
+  "best_regression_model": "Linear Regression",
+  "best_regression_r2": 0.28901669508805816,
+  "best_classification_model": "Random Forest",
+  "best_classification_accuracy": 0.47,
+  "optimal_clusters": 2,
+  "dataset_created": true,
+  "graphs_saved_in": "output_plots"
+}
